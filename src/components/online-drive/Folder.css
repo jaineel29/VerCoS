@@ -1,0 +1,32 @@
+.folder {
+  /* folder box */
+
+  width: 246px;
+  left: calc(50% - 246px / 2 - 270px);
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 1px solid #dbdbdb;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.create-form label {
+  color: whitesmoke !important;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px !important;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+  color: whitesmoke;
+  flex-direction: column;
+}
+
+.dropdown {
+}

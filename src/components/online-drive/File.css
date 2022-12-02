@@ -1,0 +1,13 @@
+.filebox {
+  /* Rectangle */
+
+  left: 0.42%;
+  right: 0.42%;
+  top: 1px;
+  bottom: 80px;
+  justify-content: center;
+  align-items: center;
+
+  /* Decorative/Light/decorativeSurfaceFourL */
+  background: #fff5f7;
+}

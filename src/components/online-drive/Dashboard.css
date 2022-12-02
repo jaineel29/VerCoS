@@ -1,0 +1,61 @@
+/* Background Copy */
+.topbar {
+  /* Background Copy */
+
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+}
+.middle {
+  /* Background */
+
+  width: 1440px;
+  height: 934px;
+  left: 0px;
+  top: 79px;
+
+  background: #f9f9fb;
+}
+.text1 {
+  /* Sort : Alphabaticall */
+
+  height: 22px;
+  left: 13.33%;
+  right: 78.61%;
+  top: 167px;
+
+  /* Body/Body 1 */
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+
+  /* Text/textSubtle */
+  color: #717171;
+}
+
+.text2 {
+  /*  Folders */
+
+  height: 24px;
+  left: 13.4%;
+  right: 76.53%;
+  top: 306px;
+
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  color: #393939;
+}
+.buttonadd {
+  text-align: right;
+}
